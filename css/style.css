@@ -1,5 +1,5 @@
 h1 {
-  
+
 }
 
 h2 {
@@ -9,5 +9,6 @@ h2 {
 
 .logo {
   display: block;
+  width: 175px;
   margin: 40px auto 0px auto;
 }
